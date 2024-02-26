@@ -1,4 +1,4 @@
-# Script para Ontologia de Plantas
+# Script para contar o número de ocorrência de palavras
 
 ## Autor
 Vasco Manuel Araújo Andrade de Oliveira
