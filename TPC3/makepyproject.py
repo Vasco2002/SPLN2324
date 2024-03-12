@@ -70,5 +70,4 @@ dependencies = [
 # Render the template with dependencies
 rendered_content = pp.render(name=name, autor="Vasco", email="pg54269@alunos.uminho.pt", dependencies=all_dependencies)
 
-# Print or write the rendered content as needed
 print(rendered_content)
