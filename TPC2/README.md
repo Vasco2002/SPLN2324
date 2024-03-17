@@ -4,9 +4,11 @@
 Vasco Manuel Araújo Andrade de Oliveira
 
 ## Data
-15/02/2024
+22/02/2024
 
 ## UC
 SPLN
 
 ### Resumo
+
+Torna o word_freq realizado no TPC1 num pyproject, que pode ser usado na linha de comandos através da palavra wfreq.

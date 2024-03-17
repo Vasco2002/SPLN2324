@@ -1,0 +1,23 @@
+PT : Portugal
+PT-BR : Português Brasileiro
+PT-PT : Português Europeu
+UE : União Europeia
+TUGA : Português
+BUE : Muito
+CRI : Criança
+PPL : Pessoal
+GANDA : Grande
+FDS : Fim de Semana
+BN : Boa Noite
+BJS : Beijos
+TXAU : Chau
+MT : Muito
+SQN : Só Que Não
+SDDS : Saudades
+NDR : Não Dá para Resistir
+XTA : Está
+TÁ : Está
+K : Quê
+KK : Rir
+BLZ : Beleza
+HJ : Hoje

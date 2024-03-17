@@ -10,3 +10,5 @@ Vasco Manuel Araújo Andrade de Oliveira
 SPLN
 
 ### Resumo
+
+Script que cria um pyproject automaticamente, o ficheiro `makepyproject.py` foi o que eu fiz e o ficheiro `makepyproject2.py` foi feito durante a aula.
