@@ -1,0 +1,52 @@
+| Palavra | Tipo | Lema |
+|---------|------|------|
+| As | Determinante | o |
+| armas | Nome | arma |
+| e | CCONJ | e |
+| os | Determinante | o |
+| Barões | Nome | Barões |
+| assinalados | Verbo | assinalar |
+| Que | Determinante | que |
+| da | Preposição | de o |
+| Ocidental | PROPN | Ocidental |
+| praia | PROPN | praia |
+| Lusitana | PROPN | Lusitana |
+| , | Pontuação | , |
+| Por | Preposição | por |
+| mares | Nome | mar |
+| nunca | Advérbio | nunca |
+| de | Preposição | de |
+| antes | Advérbio | antes |
+| navegados | Verbo | navegar |
+| Passaram | Verbo | Passaram |
+| ainda | Advérbio | ainda |
+| além | Advérbio | além |
+| da | Preposição | de o |
+| Taprobana | PROPN | Taprobana |
+| , | Pontuação | , |
+| Em | Preposição | em |
+| perigos | Nome | perigo |
+| e | CCONJ | e |
+| guerras | Nome | guerra |
+| esforçados | Verbo | esforçar |
+| , | Pontuação | , |
+| Mais | Advérbio | Mais |
+| do | Preposição | de o |
+| que | PRON | que |
+| prometia | Verbo | prometia |
+| a | Determinante | o |
+| força | Nome | força |
+| humana | ADJ | humano |
+| , | Pontuação | , |
+| E | CCONJ | e |
+| entre | Preposição | entre |
+| gente | Nome | gente |
+| remota | ADJ | remoto |
+| edificaram | Verbo | edificar |
+| Novo | ADJ | Novo |
+| reino | Nome | reino |
+| , | Pontuação | , |
+| que | PRON | que |
+| tanto | Advérbio | tanto |
+| sublimaram | Verbo | sublimar |
+| ; | Pontuação | ; |

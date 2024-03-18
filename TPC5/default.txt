@@ -1,0 +1,2 @@
+Ao executar o programa é necessário fornecer um ficheiro texto, para além da execução normal do programa. Se não tens ideia do que meter então simplesmente usa
+este exemplo, mas se quiseres conselhos deixa ver... talvez um poema famoso? Ou uma letra de uma música, não sei, decide qualquer coisa eu não me importo. 
