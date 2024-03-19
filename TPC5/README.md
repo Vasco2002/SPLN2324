@@ -18,6 +18,6 @@ Comandos de Execução:
 
 pip install -U spacy
 
-python -m spacy download pt_core_news_sm
+python -m spacy download pt_core_news_lg
 
 python3 spacyPT.py (caminho de qualquer ficheiro txt)

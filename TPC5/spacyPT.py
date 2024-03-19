@@ -1,7 +1,7 @@
 import spacy
 import sys
 
-nlp = spacy.load("pt_core_news_sm")
+nlp = spacy.load("pt_core_news_lg")
 
 expansion = {
     "DET": "Determinante",
@@ -32,4 +32,4 @@ with open(input, "r", encoding="utf-8") as arquivo_txt:
 
 extract(frase, "out.md")
 
-print(f"As informações extraídas da frase no arquivo '{input}' foram escritas no arquivo out.md")
+print(f"Informações de '{input}' foram guardadas no out.md")

@@ -4,9 +4,9 @@
 | armas | Nome | arma |
 | e | CCONJ | e |
 | os | Determinante | o |
-| Barões | Nome | Barões |
+| Barões | PROPN | Barões |
 | assinalados | Verbo | assinalar |
-| Que | Determinante | que |
+| Que | PRON | Que |
 | da | Preposição | de o |
 | Ocidental | PROPN | Ocidental |
 | praia | PROPN | praia |
@@ -30,10 +30,10 @@
 | guerras | Nome | guerra |
 | esforçados | Verbo | esforçar |
 | , | Pontuação | , |
-| Mais | Advérbio | Mais |
+| Mais | Advérbio | mais |
 | do | Preposição | de o |
 | que | PRON | que |
-| prometia | Verbo | prometia |
+| prometia | Verbo | prometir |
 | a | Determinante | o |
 | força | Nome | força |
 | humana | ADJ | humano |
@@ -43,7 +43,7 @@
 | gente | Nome | gente |
 | remota | ADJ | remoto |
 | edificaram | Verbo | edificar |
-| Novo | ADJ | Novo |
+| Novo | ADJ | novo |
 | reino | Nome | reino |
 | , | Pontuação | , |
 | que | PRON | que |
