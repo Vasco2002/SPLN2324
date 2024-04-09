@@ -1,0 +1,2 @@
+| Indivíduo | Melhor Amigo | Contagem |
+|---------|--------------|---------|

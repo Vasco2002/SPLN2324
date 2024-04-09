@@ -29,7 +29,7 @@ def extract(frase, md):
             tabela.write(f"| {token.text} | {tipo} | {token.lemma_} | {token.dep_} | {filhos} |\n")
             if token.is_sent_end:
                 tabela.write("|         |      |      |     |         |\n")
-#    displacy.serve(doc, style="dep")
+    displacy.serve(doc, style="dep")
 
 if len(sys.argv) != 2:
     input = "default.txt"
